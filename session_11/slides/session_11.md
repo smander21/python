@@ -1,7 +1,5 @@
 # [fit] IHF: Code
 ## [fit] Python — Making Games
-### Live at 10am
-
 ---
 
 # Questionnaire
