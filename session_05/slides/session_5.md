@@ -1,6 +1,5 @@
-# [fit] IHF: Code
 ## [fit] Python — Session 5 — Lesson
-### Live at 10am
+
 ---
 
 # Review
@@ -204,11 +203,6 @@ times_to_ask = int(input("How many times should I ask? "))
 for x in range(times_to_ask):
     print(input("What is your name? "))
 ```
-
----
-
-## Any Questions?
-### sli.do #python2020
 
 ---
 
@@ -487,12 +481,3 @@ for x in range(times_to_loop):
 ```
 
 ---
-
-### Questions?
-### go to sli.do #python2020
-
----
-
-# [fit] Next Session
-### Thursday 11th June 10am
-### Answers
