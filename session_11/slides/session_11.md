@@ -4,11 +4,6 @@
 
 ---
 
-# Send Code to
-## uk-dlihfcode@kpmg.co.uk
-
----
-
 # Questionnaire
 
 ---
@@ -181,16 +176,3 @@ B                             14
 
 ---
 
-# Send Code to
-## uk-dlihfcode@kpmg.co.uk
-
----
-
-### Questions?
-### go to sli.do #ihfcode
-
----
-
-# [fit] Next Session
-### Tuesday 4th August 10am
-### Making Games Continued
