@@ -1,6 +1,4 @@
-# [fit] IHF: Code
 ## [fit] Python — Session 4 — Lesson
-### Live at 10am
 
 ---
 
@@ -154,11 +152,6 @@ if age < 13 or age > 19:
 if not (age > 12 and age < 20):
     print("You are not a teenager")
 ```
-
----
-
-## Any Questions?
-### sli.do #python2020
 
 ---
 
@@ -329,12 +322,3 @@ range(2000, 2020, 4)
 ## Section B
 
 ---
-
-### Questions?
-### go to sli.do #python2020
-
----
-
-# [fit] Next Session
-### Thursday 4th June 10am
-### Answers
