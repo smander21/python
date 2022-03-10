@@ -1,7 +1,5 @@
 # [fit] IHF: Code
 ## [fit] Python — Session 2 — Lesson
-### Live at 10am
-
 ---
 
 # Review
@@ -18,7 +16,7 @@
 
 ```python
 print("Hello, World!")
-print("Hello, Saf!")
+print("Hello, Sanj!")
 print("Hello, Jake!")
 ```
 
@@ -109,11 +107,6 @@ print("Good morning, " + full_name)
 | | / | Division |
 | | + | Addition |
 | Lowest | - | Subtraction |
-
----
-
-## Any Questions?
-### sli.do #python2020
 
 ---
 
@@ -379,12 +372,3 @@ print("The middle letter of your name is " + middle_letter)
 ## Section A
 
 ---
-
-### Questions?
-### go to sli.do #python2020
-
----
-
-# [fit] Next Session
-### Thursday 14th May 10am
-### Answers
