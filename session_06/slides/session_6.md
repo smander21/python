@@ -1,6 +1,4 @@
-# [fit] IHF: Code
 ## [fit] Python — Session 6 — Lesson
-### Live at 10am
 
 ---
 
@@ -266,11 +264,6 @@ for x in range(times_to_loop):
 
 ---
 
-## Any Questions?
-### sli.do #ihfcode
-
----
-
 # Collections
 
 ---
@@ -325,7 +318,6 @@ shirt = {
 student = {
     "name": "Alice Smith",
     "year": "9",
-    "form_tutor": "Miss Mirza"
 }
 ```
 
@@ -507,11 +499,3 @@ while fname != "":
 
 ---
 
-### Questions?
-### go to sli.do #ihfcode
-
----
-
-# [fit] Next Session
-### Thursday 14th May 2pm
-### Answers
