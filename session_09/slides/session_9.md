@@ -1,6 +1,4 @@
-# [fit] IHF: Code
 ## [fit] Python — Session 9 — Lesson
-### Live at 10am
 
 ---
 
@@ -233,11 +231,6 @@ f.close()
 
 ---
 
-## Any Questions?
-### sli.do #python2020
-
----
-
 # Multiple Assignment
 
 ---
@@ -365,7 +358,7 @@ def hello(name = "World"):
 
 
 hello("Jake")
-hello("Saf")
+hello("Sanj")
 hello() # Hello World
 ```
 
@@ -432,13 +425,13 @@ def send_message(to, from = "Alice", message = "Hi"):
 
 
 # Both the same as 'to' is first in the parameters
-send_message("Saf")
-send_message(to = "Saf")
+send_message("Sanj")
+send_message(to = "Sanj")
 
 # All the same
-send_message("Jake", "Saf", "Where are you?")
-send_message("Jake", message = "Where are you?", from = "Saf")
-send_message(message = "Where are you?", to = "Jake", from = "Saf")
+send_message("Jake", "Sanj", "Where are you?")
+send_message("Jake", message = "Where are you?", from = "Sanj")
+send_message(message = "Where are you?", to = "Jake", from = "Sanj")
 ```
 
 ---
@@ -587,14 +580,13 @@ add_item(
 ```python
 add_item(
     "13418",
-    "IHF: Code — Intro to Python",
+    "Intro to Python",
     "video",
-    creator = "Jake & Saf",
     length = "1:12:00",
     year_created = "2020"
 )
-# ('13418', 'IHF: Code — Intro to Python', 'video')
-# {'creator': 'Jake & Saf', 'length': '1:12:00', 'year_created': '2020'}
+# ('13418', 'Intro to Python', 'video')
+# {'length': '1:12:00', 'year_created': '2020'}
 ```
 
 ---
@@ -706,11 +698,3 @@ add_contact(**contact)
 
 ---
 
-### Questions?
-### go to sli.do #python2020
-
----
-
-# [fit] Next Session
-### Thursday 9th July 10am
-### Answers
