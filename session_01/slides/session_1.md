@@ -1,22 +1,5 @@
 # [fit] IHF: Code
 ## [fit] Python — Session 1 — Lesson
-### Live at 10am
-
----
-
-# [fit] Course Overview
-
----
-
-# Course Overview
-- 10 weeks
-- Tuesday — 10–11am - Lesson
-- Thursday — 10–11am - Answers
-
----
-
-## Any Questions?
-### sli.do #python2020
 
 ---
 
@@ -339,11 +322,3 @@ correct_sum = (4 + 5) * 2
 
 ---
 
-### Questions?
-### go to sli.do #python2020
-
----
-
-# [fit] Next Session
-### Thursday 7th May 10am
-### Answers
