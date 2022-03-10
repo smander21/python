@@ -1,7 +1,4 @@
-# [fit] IHF: Code
 ## [fit] Python — Session 3 — Lesson
-### Live at 10am
-
 ---
 
 # Review
@@ -17,7 +14,7 @@
 
 ```python
 print("Hello, World!")
-print("Hello, Saf!")
+print("Hello, Sanj!")
 print("Hello, Jake!")
 ```
 
@@ -107,11 +104,6 @@ age = int(input("How old are you? "))
 age_in_10_years = age + 10
 print("In 10 years you will be " + str(age_in_10_years))
 ```
-
----
-
-## Any Questions?
-### sli.do #python2020
 
 ---
 
@@ -369,12 +361,3 @@ if not (age > 12 and age < 20):
 ## Section B
 
 ---
-
-### Questions?
-### go to sli.do #python2020
-
----
-
-# [fit] Next Session
-### Thursday 21st May 10am
-### Answers
