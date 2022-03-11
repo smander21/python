@@ -1,4 +1,3 @@
-# [fit] IHF: Code
 ## Python — Session 10
 
 ---
@@ -292,7 +291,7 @@ def hello(name = "World"):
 
 
 hello("Jake")
-hello("Saf")
+hello("Sanj")
 hello() # Hello World
 ```
 
@@ -471,11 +470,6 @@ while name:
 
 f.close()
 ```
-
----
-
-## Any Questions?
-### sli.do #ihfcode
 
 ---
 
@@ -893,12 +887,3 @@ volvo_s90.more_car_info()
 ## Section A
 
 ---
-
-### Questions?
-### go to sli.do #ihfcode
-
----
-
-# [fit] Next Session
-### Thursday 11th June 2pm
-### Answers
