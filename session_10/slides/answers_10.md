@@ -1,4 +1,4 @@
-# [fit] IHF: Code
+
 ## [fit] Python — Session 10 — Answers
 ### Live at 10am
 
@@ -8,8 +8,7 @@
 
 ---
 
-# Send Code to
-## uk-dlihfcode@kpmg.co.uk
+
 
 ---
 
@@ -22,8 +21,7 @@
 
 ---
 
-# Send Code to
-## uk-dlihfcode@kpmg.co.uk
+
 
 ---
 
